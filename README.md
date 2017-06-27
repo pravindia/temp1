@@ -1,2 +1,2 @@
 # temp1
-https://pravindia.github.io/temp1/index.htm
+https://pravindia.github.io/temp1/index.html
